@@ -11,7 +11,6 @@ import java.io.Serializable;
  * @since 2023/4/19
  */
 @AllArgsConstructor
-@NoArgsConstructor
 public class BlackListOV implements Serializable {
 
     private static final long serialVersionUID = -6089967859957593766L;
